@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3ad2057691d98c2aa3b4eae9ce924118574e34dd",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2021-07-02 10:45:20",
+    "files": 3,
+    "merge": false,
+    "message": "shorten stds version output Version -> v\n"
+  },
+  "remote": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr"
+}
