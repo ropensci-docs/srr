@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1185536dee6db744bef8b7118d1e03689e58a485",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-03-27 10:17:18",
+    "files": 4,
+    "merge": false,
+    "message": "expose 'roxygenise' param in report fn; closes #39\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr"
+}
