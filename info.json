@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ecba1c86c459761c6a566ec6157c6398a1ae7cf3",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2024-10-22 12:30:28",
+    "files": 3,
+    "merge": false,
+    "message": "rm readme.md from .Buildignore [ci skip]\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr"
+}
