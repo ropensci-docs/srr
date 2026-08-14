@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "d186fe6f93657805ed86177f03333c478e136709",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-07-22T08:14:46Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #68 from rootcoder007/fix/mirror-concurrency\n\nSerialize push-to-elsewhere runs"
+  },
+  "repo": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr",
+  "time": "2026-08-14T18:45:40Z"
+}
