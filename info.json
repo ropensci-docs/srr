@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "51c018d84de6ab9f079b82f2b5a724cf924a99a7",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-21T08:34:36Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #72 from rootcoder007/unknown-category\n\nFallback title and URL for categories added to the dev guide after release"
+  },
+  "repo": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr",
+  "time": "2026-10-21T16:18:52Z"
+}
