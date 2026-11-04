@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7521685de888666975bd8b9c5bd7697d5d583620",
+    "author": "Mauro Lepore <maurolepore@gmail.com>",
+    "time": "2026-11-03T23:50:08Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 1.1.0.9000\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr",
+  "time": "2026-11-04T06:52:27Z"
+}
