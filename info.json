@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c0cdb03c1d3eb74ebe81ae584de597cd482c7d47",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-12T12:05:57Z",
+    "files": 2,
+    "merge": false,
+    "message": "docs: update installation instructions\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/srr",
+  "pkg": "srr",
+  "time": "2026-11-12T13:07:46Z"
+}
